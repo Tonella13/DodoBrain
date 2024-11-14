@@ -1,2 +1,2 @@
 # DodoBrain
-Brainless Professor
+Professor
